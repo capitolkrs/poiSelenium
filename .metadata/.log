@@ -1,0 +1,1131 @@
+!SESSION 2015-11-18 04:30:38.269 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_31
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/capiwega/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/capiwega/.eclipse_keyring -showlocation
+
+This is a continuation of log file /Users/capiwega/gitHubRepo/PoiSelenium/.metadata/.bak_0.log
+Created Time: 2015-11-18 05:57:37.850
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:37.850
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:37.851
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hsmf.examples (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:37.866
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xslf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:37.867
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.examples (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:37.868
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:37.878
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hssf.usermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:37.901
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hssf.view.brush (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:37.914
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.432
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hssf.usermodel.examples (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.433
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hssf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.435
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hwpf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.552
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.eventusermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.553
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.eventusermodel.examples (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.554
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hpsf.examples (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.554
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.ss.examples.formula (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.555
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.poifs.poibrowser (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.556
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.ss (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.556
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hsmf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.557
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xslf.usermodel.tutorial (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.558
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.ss.examples.html (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.559
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.559
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.usermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.560
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xwpf.usermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.561
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.ss.examples (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.562
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.usermodel.examples (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.562
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.564
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hssf.view (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.565
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xwpf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.565
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hssf.eventusermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.566
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.streaming (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.567
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hpsf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.568
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hssf.eventusermodel.examples (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.568
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.streaming.examples (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.569
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar
+  <default> (not open)
+  org (...)
+  org.apache.poi (not open)
+  org.apache.poi.ss.excelant.util (not open)
+  org.apache (not open)
+  org.apache.poi.ss.excelant (not open)
+  org.apache.poi.ss (not open)
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.569
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:<default> (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.569
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.570
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.570
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.ss.excelant.util (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.570
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.571
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.ss.excelant (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.571
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.ss (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.571
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar
+  <default> (not open)
+  org.apache.poi.xslf.usermodel (not open)
+  org.apache.poi.poifs (not open)
+  org.apache.poi.xssf.extractor (not open)
+  org.apache (not open)
+  org.apache.poi.xwpf.extractor (not open)
+  org.apache.poi.openxml4j.opc.signature (not open)
+  org.apache.poi.openxml4j (not open)
+  org.apache.poi.xslf (not open)
+  org (...)
+  org.apache.poi (not open)
+  org.apache.poi.openxml4j.exceptions (not open)
+  org.apache.poi.xssf.usermodel.extensions (not open)
+  org.apache.poi.util (not open)
+  org.apache.poi.xssf.eventusermodel (not open)
+  org.apache.poi.xssf.util (not open)
+  org.apache.poi.dev (not open)
+  org.apache.poi.xslf.extractor (not open)
+  org.apache.poi.openxml4j.opc (not open)
+  org.apache.poi.xssf.model (not open)
+  org.apache.poi.xwpf.model (not open)
+  org.apache.poi.poifs.crypt.dsig.facets (not open)
+  org.apache.poi.ss.usermodel (not open)
+  org.apache.poi.xssf.dev (not open)
+  org.apache.poi.xssf.usermodel.helpers (not open)
+  org.apache.poi.ss (not open)
+  org.apache.poi.poifs.crypt (not open)
+  org.apache.poi.poifs.crypt.dsig.services (not open)
+  org.apache.poi.openxml4j.util (not open)
+  org.apache.poi.xslf.util (not open)
+  org.apache.poi.xssf.usermodel (not open)
+  org.apache.poi.extractor (not open)
+  org.apache.poi.poifs.crypt.dsig (not open)
+  org.apache.poi.xwpf.usermodel (not open)
+  org.apache.poi.openxml4j.opc.internal.marshallers (not open)
+  org.apache.poi.xslf.model (not open)
+  org.apache.poi.openxml4j.opc.internal.signature (not open)
+  org.apache.poi.xssf (not open)
+  org.apache.poi.xwpf (not open)
+  org.apache.poi.openxml4j.opc.internal.unmarshallers (not open)
+  org.apache.poi.openxml4j.opc.internal (not open)
+  org.apache.poi.poifs.crypt.agile (not open)
+  org.apache.poi.xssf.streaming (not open)
+  org.apache.poi.xssf.usermodel.charts (not open)
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.572
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:<default> (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.572
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xslf.usermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.572
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.poifs (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.573
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.573
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.573
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xwpf.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.574
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.openxml4j.opc.signature (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.574
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.openxml4j (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.575
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xslf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.575
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.575
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.576
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.openxml4j.exceptions (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.576
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.usermodel.extensions (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.576
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.util (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.577
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.eventusermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.577
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.util (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.577
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.dev (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.578
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xslf.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.578
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.openxml4j.opc (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.578
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.model (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.579
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xwpf.model (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.579
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.poifs.crypt.dsig.facets (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.579
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.ss.usermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.580
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.dev (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.580
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.usermodel.helpers (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.580
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.ss (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.581
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.poifs.crypt (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.581
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.poifs.crypt.dsig.services (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.581
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.openxml4j.util (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.582
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xslf.util (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.582
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.usermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.582
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.583
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.poifs.crypt.dsig (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.583
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xwpf.usermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.583
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.openxml4j.opc.internal.marshallers (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.584
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xslf.model (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.584
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.openxml4j.opc.internal.signature (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.584
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.585
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xwpf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.585
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.openxml4j.opc.internal.unmarshallers (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.585
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.openxml4j.opc.internal (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.585
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.poifs.crypt.agile (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.586
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.streaming (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.586
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.xssf.usermodel.charts (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.587
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar
+  <default> (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_525852A6309B3D2A27787B1A7C2D04619A20B7F1 (not open)
+  org.openxmlformats.schemas.drawingml.x2006.chart.impl (not open)
+  schemaorg_apache_xmlbeans.system.s0B482D0B338CC9641C1543C3510577FE (not open)
+  org.openxmlformats.schemas.spreadsheetml.x2006.main.impl (not open)
+  org.openxmlformats.schemas.drawingml.x2006.wordprocessingDrawing (not open)
+  org.w3.x2000.x09 (not open)
+  schemaorg_apache_xmlbeans.element.http_3A_2F_2Fwww_2Ew3_2Eorg_2F2000_2F09_2Fxmldsig_23 (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_BFB0A44ADD30508EE7AAA5C69B773ABF89BE5D2D (not open)
+  com.microsoft.schemas.office.x2006.keyEncryptor (not open)
+  com (...)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_E30B7F4270955C4B3E6FC9EF2EBAF7F61AF3AFEC (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_557A6E26821E70DDDD5059B7A94657AA9AA6F8ED (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_C9C005F673B171B8BFB7F8303112C92FC2C8B7AA (not open)
+  schemaorg_apache_xmlbeans.system.sE130CAA0A01A7CDE5A2B4FEB8B311707 (not open)
+  com.microsoft.schemas (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_A7F231EDC4AB602A5564B2DCCDEB3A9DBF76840A (not open)
+  org.w3 (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_B1DE9718F9D20DF6F07682D1D4E3EDC19321D557 (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_21AE78311217243493C959E7BC6804B99F72443F (not open)
+  org.openxmlformats.schemas.officeDocument.x2006.docPropsVTypes (not open)
+  org.etsi.uri.x01903 (not open)
+  org.openxmlformats.schemas.drawingml.x2006.main (not open)
+  schemaorg_apache_xmlbeans.element.urn_3Aschemas_2Dmicrosoft_2Dcom_3Aoffice_3Apowerpoint (not open)
+  org.openxmlformats.schemas.officeDocument.x2006.customProperties (not open)
+  com.microsoft.schemas.office.x2006 (not open)
+  schemasMicrosoftComVml.impl (not open)
+  org.openxmlformats.schemas.drawingml (not open)
+  org.openxmlformats.schemas.drawingml.x2006.wordprocessingDrawing.impl (not open)
+  schemaorg_apache_xmlbeans.element.http_3A_2F_2Fpurl_2Eorg_2Fdc_2Fterms_2F (not open)
+  org.openxmlformats.schemas.wordprocessingml.x2006 (not open)
+  org.etsi (not open)
+  org.etsi.uri.x01903.v13.impl (not open)
+  org.openxmlformats.schemas.officeDocument.x2006.docPropsVTypes.impl (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_684A05BC682D945E123E8592D8AFCAE5025794C2 (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_E70A070947C9F7A694110D1EC51C3EDAD95AEC59 (not open)
+  schemasMicrosoftComOfficeOffice (not open)
+  org.openxmlformats.schemas.drawingml.x2006.main.impl (not open)
+  org.openxmlformats.schemas.officeDocument.x2006 (not open)
+  org.openxmlformats.schemas.officeDocument.x2006.customProperties.impl (not open)
+  schemaorg_apache_xmlbeans.system (not open)
+  schemaorg_apache_xmlbeans (not open)
+  org.openxmlformats.schemas.xpackage.x2006 (not open)
+  com.microsoft.schemas.office.x2006.keyEncryptor.password (not open)
+  org.openxmlformats.schemas.drawingml.x2006.picture (not open)
+  org.openxmlformats.schemas.presentationml.x2006 (not open)
+  org (...)
+  org.etsi.uri.x01903.v13 (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_49495484AA854302D08892401F85FCED20A7BD90 (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_F21916F780C9134594597370F6699CF6386D205F (not open)
+  com.microsoft.schemas.office (not open)
+  org.w3.x2000.x09.xmldsig.impl (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_5E8D66AA6B7CD13299C470169A1C216B2E73C528 (not open)
+  org.w3.x2000 (not open)
+  org.w3.x2000.x09.xmldsig (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_A656D4FABFC941ADEAF5235B5CDDA6E6C3B2F2CB (not open)
+  org.openxmlformats.schemas.drawingml.x2006.picture.impl (not open)
+  org.openxmlformats.schemas.spreadsheetml.x2006 (not open)
+  org.openxmlformats.schemas.wordprocessingml.x2006.main (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_58B179B77080FCA9ECD7715B929FA131600E2D0E (not open)
+  schemaorg_apache_xmlbeans.element.http_3A_2F_2Furi_2Eetsi_2Eorg_2F01903_2Fv1_2E3_2E2_23 (not open)
+  schemasMicrosoftComOfficeOffice.impl (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_19646AEC388215C989FB75EDE3F402FF063BA490 (not open)
+  org.openxmlformats.schemas.officeDocument.x2006.relationships (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_21E55976FC744A04B45A6F07A2B808D12BB559D1 (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_640FACC0F3ED2458258952465E2A4DCFAE01C1D6 (not open)
+  org.openxmlformats.schemas.xpackage.x2006.digitalSignature (not open)
+  org.openxmlformats.schemas.officeDocument.x2006.extendedProperties (not open)
+  org.openxmlformats.schemas.wordprocessingml (not open)
+  com.microsoft.schemas.office.x2006.digsig (not open)
+  org.openxmlformats.schemas.xpackage.x2006.relationships (not open)
+  com.microsoft.schemas.office.x2006.encryption (not open)
+  schemasMicrosoftComOfficeExcel (not open)
+  org.openxmlformats.schemas.drawingml.x2006.spreadsheetDrawing (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_F68026A8DDD62B229CC03D90FA6AE0A61C96D7BE (not open)
+  schemaorg_apache_xmlbeans.element.urn_3Aschemas_2Dmicrosoft_2Dcom_3Aoffice_3Aoffice (not open)
+  org.openxmlformats (not open)
+  com.microsoft.schemas.office.x2006.keyEncryptor.password.impl (not open)
+  org.openxmlformats.schemas.officeDocument (not open)
+  org.openxmlformats.schemas.presentationml.x2006.main (not open)
+  org.openxmlformats.schemas.officeDocument.x2006.relationships.impl (not open)
+  schemaorg_apache_xmlbeans.element.urn_3Aschemas_2Dmicrosoft_2Dcom_3Aoffice_3Aexcel (not open)
+  org.openxmlformats.schemas.xpackage (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_5A7A45D3BA7DBF14135BE649BA028A8F72215AAB (not open)
+  schemaorg_apache_xmlbeans.element.urn_3Aschemas_2Dmicrosoft_2Dcom_3Avml (not open)
+  com.microsoft.schemas.office.x2006.encryption.impl (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_5EFC25B18958CA665491F7BD74832D9A9691CCBF (not open)
+  org.openxmlformats.schemas.wordprocessingml.x2006.main.impl (not open)
+  com.microsoft.schemas.office.x2006.keyEncryptor.certificate (not open)
+  org.openxmlformats.schemas.drawingml.x2006.chart (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_11253F446F282FE256207B76A3DF3FD56B37BA8C (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_D0E3914A078773AB474224AE0AE04D6EEAC77A8F (not open)
+  org.openxmlformats.schemas.spreadsheetml.x2006.main (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_E87E5132FB5D3870B01207FBD5255E29C6C66759 (not open)
+  schemaorg_apache_xmlbeans.element.http_3A_2F_2Fpurl_2Eorg_2Fdc_2Felements_2F1_2E1_2F (not open)
+  schemaorg_apache_xmlbeans.element.http_3A_2F_2Furi_2Eetsi_2Eorg_2F01903_2Fv1_2E4_2E1_23 (not open)
+  org.etsi.uri (not open)
+  org.openxmlformats.schemas.officeDocument.x2006.extendedProperties.impl (not open)
+  org.openxmlformats.schemas.xpackage.x2006.digitalSignature.impl (not open)
+  com.microsoft.schemas.office.x2006.digsig.impl (not open)
+  org.openxmlformats.schemas.xpackage.x2006.relationships.impl (not open)
+  org.openxmlformats.schemas.presentationml (not open)
+  schemaorg_apache_xmlbeans.element (not open)
+  org.openxmlformats.schemas.spreadsheetml (not open)
+  org.openxmlformats.schemas (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_6081D3567B633D0102A6082D6958CC7332114C3B (not open)
+  org.openxmlformats.schemas.drawingml.x2006.spreadsheetDrawing.impl (not open)
+  schemasMicrosoftComOfficeExcel.impl (not open)
+  com.microsoft (not open)
+  schemaorg_apache_xmlbeans.element.urn_3Aschemas_2Dmicrosoft_2Dcom_3Aoffice_3Aword (not open)
+  org.openxmlformats.schemas.presentationml.x2006.main.impl (not open)
+  org.openxmlformats.schemas.drawingml.x2006 (not open)
+  com.microsoft.schemas.office.x2006.keyEncryptor.certificate.impl (not open)
+  schemaorg_apache_xmlbeans.element.URI_SHA_1_5B75918D653159618FFFD6D486A4E307FB5C542B (not open)
+  schemaorg_apache_xmlbeans.element.http_3A_2F_2Fschemas_2Emicrosoft_2Ecom_2Foffice_2F2006_2Fdigsig (not open)
+  schemasMicrosoftComVml (not open)
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.588
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:<default> (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.589
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_525852A6309B3D2A27787B1A7C2D04619A20B7F1 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.589
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006.chart.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.589
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.system.s0B482D0B338CC9641C1543C3510577FE (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.589
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.spreadsheetml.x2006.main.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.590
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006.wordprocessingDrawing (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.590
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.w3.x2000.x09 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.590
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.http_3A_2F_2Fwww_2Ew3_2Eorg_2F2000_2F09_2Fxmldsig_23 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.591
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_BFB0A44ADD30508EE7AAA5C69B773ABF89BE5D2D (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.591
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office.x2006.keyEncryptor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.591
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.592
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_E30B7F4270955C4B3E6FC9EF2EBAF7F61AF3AFEC (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.592
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_557A6E26821E70DDDD5059B7A94657AA9AA6F8ED (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.592
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_C9C005F673B171B8BFB7F8303112C92FC2C8B7AA (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.593
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.system.sE130CAA0A01A7CDE5A2B4FEB8B311707 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.593
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.593
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_A7F231EDC4AB602A5564B2DCCDEB3A9DBF76840A (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.594
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.w3 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.594
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_B1DE9718F9D20DF6F07682D1D4E3EDC19321D557 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.595
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_21AE78311217243493C959E7BC6804B99F72443F (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.595
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.officeDocument.x2006.docPropsVTypes (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.595
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.etsi.uri.x01903 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.596
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006.main (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.596
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.urn_3Aschemas_2Dmicrosoft_2Dcom_3Aoffice_3Apowerpoint (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.596
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.officeDocument.x2006.customProperties (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.597
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office.x2006 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.597
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemasMicrosoftComVml.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.597
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.598
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006.wordprocessingDrawing.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.599
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.http_3A_2F_2Fpurl_2Eorg_2Fdc_2Fterms_2F (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.600
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.wordprocessingml.x2006 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.600
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.etsi (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.600
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.etsi.uri.x01903.v13.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.601
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.officeDocument.x2006.docPropsVTypes.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.601
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_684A05BC682D945E123E8592D8AFCAE5025794C2 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.601
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_E70A070947C9F7A694110D1EC51C3EDAD95AEC59 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.602
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemasMicrosoftComOfficeOffice (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.603
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006.main.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.604
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.officeDocument.x2006 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.604
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.officeDocument.x2006.customProperties.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.604
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.system (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.605
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.605
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.xpackage.x2006 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.605
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office.x2006.keyEncryptor.password (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.606
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006.picture (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.606
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.presentationml.x2006 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.606
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.607
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.etsi.uri.x01903.v13 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.607
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_49495484AA854302D08892401F85FCED20A7BD90 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.608
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_F21916F780C9134594597370F6699CF6386D205F (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.608
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.608
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.w3.x2000.x09.xmldsig.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.609
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_5E8D66AA6B7CD13299C470169A1C216B2E73C528 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.609
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.w3.x2000 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.609
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.w3.x2000.x09.xmldsig (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.610
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_A656D4FABFC941ADEAF5235B5CDDA6E6C3B2F2CB (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.610
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006.picture.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.611
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.spreadsheetml.x2006 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.611
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.wordprocessingml.x2006.main (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.611
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_58B179B77080FCA9ECD7715B929FA131600E2D0E (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.612
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.http_3A_2F_2Furi_2Eetsi_2Eorg_2F01903_2Fv1_2E3_2E2_23 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.612
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemasMicrosoftComOfficeOffice.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.612
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_19646AEC388215C989FB75EDE3F402FF063BA490 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.613
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.officeDocument.x2006.relationships (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.613
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_21E55976FC744A04B45A6F07A2B808D12BB559D1 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.613
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_640FACC0F3ED2458258952465E2A4DCFAE01C1D6 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.614
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.xpackage.x2006.digitalSignature (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.614
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.officeDocument.x2006.extendedProperties (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.615
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.wordprocessingml (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.615
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office.x2006.digsig (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.615
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.xpackage.x2006.relationships (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.616
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office.x2006.encryption (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.616
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemasMicrosoftComOfficeExcel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.616
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006.spreadsheetDrawing (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.617
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_F68026A8DDD62B229CC03D90FA6AE0A61C96D7BE (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.617
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.urn_3Aschemas_2Dmicrosoft_2Dcom_3Aoffice_3Aoffice (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.617
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.618
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office.x2006.keyEncryptor.password.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.618
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.officeDocument (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.618
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.presentationml.x2006.main (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.619
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.officeDocument.x2006.relationships.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.620
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.urn_3Aschemas_2Dmicrosoft_2Dcom_3Aoffice_3Aexcel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.620
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.xpackage (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.620
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_5A7A45D3BA7DBF14135BE649BA028A8F72215AAB (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.621
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.urn_3Aschemas_2Dmicrosoft_2Dcom_3Avml (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.621
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office.x2006.encryption.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.621
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_5EFC25B18958CA665491F7BD74832D9A9691CCBF (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.622
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.wordprocessingml.x2006.main.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.622
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office.x2006.keyEncryptor.certificate (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.622
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006.chart (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.623
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_11253F446F282FE256207B76A3DF3FD56B37BA8C (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.623
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_D0E3914A078773AB474224AE0AE04D6EEAC77A8F (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.624
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.spreadsheetml.x2006.main (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.624
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_E87E5132FB5D3870B01207FBD5255E29C6C66759 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.624
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.http_3A_2F_2Fpurl_2Eorg_2Fdc_2Felements_2F1_2E1_2F (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.625
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.http_3A_2F_2Furi_2Eetsi_2Eorg_2F01903_2Fv1_2E4_2E1_23 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.625
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.etsi.uri (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.625
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.officeDocument.x2006.extendedProperties.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.626
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.xpackage.x2006.digitalSignature.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.626
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office.x2006.digsig.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.626
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.xpackage.x2006.relationships.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.627
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.presentationml (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.627
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.627
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.spreadsheetml (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.628
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.628
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_6081D3567B633D0102A6082D6958CC7332114C3B (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.629
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006.spreadsheetDrawing.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.629
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemasMicrosoftComOfficeExcel.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.629
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.630
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.urn_3Aschemas_2Dmicrosoft_2Dcom_3Aoffice_3Aword (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.630
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.presentationml.x2006.main.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.630
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.openxmlformats.schemas.drawingml.x2006 (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.631
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.microsoft.schemas.office.x2006.keyEncryptor.certificate.impl (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.631
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.URI_SHA_1_5B75918D653159618FFFD6D486A4E307FB5C542B (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.631
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemaorg_apache_xmlbeans.element.http_3A_2F_2Fschemas_2Emicrosoft_2Ecom_2Foffice_2F2006_2Fdigsig (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.632
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:schemasMicrosoftComVml (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.632
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar
+  org.apache.poi.hpbf.extractor (not open)
+  <default> (not open)
+  org.apache.poi.hdf.model.hdftypes (not open)
+  org.apache.poi.hwpf.dev (not open)
+  org.apache (not open)
+  org.apache.poi.hsmf.exceptions (not open)
+  org.apache.poi.hsmf.parsers (not open)
+  org.apache.poi.hwpf.sprm (not open)
+  org.apache.poi.hslf.exceptions (not open)
+  org.apache.poi.hdf.event (not open)
+  org.apache.poi.hdgf.chunks (not open)
+  org (...)
+  org.apache.poi.hdgf.extractor (not open)
+  org.apache.poi.hmef (not open)
+  org.apache.poi.hslf.util (not open)
+  org.apache.poi.hssf.usermodel (not open)
+  org.apache.poi.hwpf.usermodel (not open)
+  org.apache.poi (not open)
+  org.apache.poi.hdf.extractor (not open)
+  org.apache.poi.hslf.model (not open)
+  org.apache.poi.hssf (not open)
+  org.apache.poi.hwpf (not open)
+  org.apache.poi.hdgf.pointers (not open)
+  org.apache.poi.hslf.data (not open)
+  org.apache.poi.hsmf.dev (not open)
+  org.apache.poi.hdf.extractor.data (not open)
+  org.apache.poi.hpbf.model (not open)
+  org.apache.poi.hslf.dev (not open)
+  org.apache.poi.hdgf.streams (not open)
+  org.apache.poi.hdgf.exceptions (not open)
+  org.apache.poi.hslf.record (not open)
+  org.apache.poi.hmef.extractor (not open)
+  org.apache.poi.hpbf.dev (not open)
+  org.apache.poi.hsmf.datatypes (not open)
+  org.apache.poi.hwpf.model.types (not open)
+  org.apache.poi.hslf.usermodel (not open)
+  org.apache.poi.hssf.converter (not open)
+  org.apache.poi.hwpf.converter (not open)
+  org.apache.poi.hwpf.extractor (not open)
+  org.apache.poi.hsmf (not open)
+  org.apache.poi.hdf.model (not open)
+  org.apache.poi.hdgf.dev (not open)
+  org.apache.poi.hslf (not open)
+  org.apache.poi.hpbf.model.qcbits (not open)
+  org.apache.poi.hslf.model.textproperties (not open)
+  org.apache.poi.hdf.extractor.util (not open)
+  org.apache.poi.hdf.model.util (not open)
+  org.apache.poi.hpbf (not open)
+  org.apache.poi.hdf.model.hdftypes.definitions (not open)
+  org.apache.poi.hsmf.extractor (not open)
+  org.apache.poi.hslf.blip (not open)
+  org.apache.poi.hdgf (not open)
+  org.apache.poi.hmef.attribute (not open)
+  org.apache.poi.hmef.dev (not open)
+  org.apache.poi.hslf.extractor (not open)
+  org.apache.poi.hwpf.model (not open)
+  org.apache.poi.hwpf.model.io (not open)
+  org.apache.poi.hdf (not open)
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.633
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hpbf.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.633
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:<default> (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.633
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdf.model.hdftypes (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.634
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hwpf.dev (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.634
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.634
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hsmf.exceptions (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.635
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hsmf.parsers (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.635
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hwpf.sprm (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.635
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.exceptions (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.637
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdf.event (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.637
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdgf.chunks (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.637
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.638
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdgf.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.639
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hmef (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.639
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.util (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.640
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hssf.usermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.640
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hwpf.usermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.641
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.641
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdf.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.641
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.model (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.642
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hssf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.642
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hwpf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.642
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdgf.pointers (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.643
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.data (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.643
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hsmf.dev (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.643
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdf.extractor.data (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.644
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hpbf.model (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.644
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.dev (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.644
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdgf.streams (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.645
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdgf.exceptions (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.645
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.record (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.645
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hmef.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.646
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hpbf.dev (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.646
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hsmf.datatypes (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.646
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hwpf.model.types (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.647
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.usermodel (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.647
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hssf.converter (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.647
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hwpf.converter (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.648
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hwpf.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.648
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hsmf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.649
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdf.model (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.649
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdgf.dev (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.650
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.651
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hpbf.model.qcbits (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.651
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.model.textproperties (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.652
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdf.extractor.util (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.652
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdf.model.util (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.652
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hpbf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.653
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdf.model.hdftypes.definitions (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.653
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hsmf.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.653
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.blip (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.654
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdgf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.654
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hmef.attribute (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.654
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hmef.dev (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.655
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hslf.extractor (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.655
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hwpf.model (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.655
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hwpf.model.io (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.656
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:org.apache.poi.hdf (not open) [in /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:57:38.741
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/bin /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/testng.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/jcommander.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/bsh-2.0b4.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/snakeyaml.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.12-20150511.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/apache-mime4j-0.6.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/bsh-1.3.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cglib-nodep-2.1_3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-codec-1.10.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-collections-3.2.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-exec-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-io-2.4.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-lang3-3.4.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-logging-1.1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cssparser-0.9.16.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/gson-2.3.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/guava-18.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-core-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-library-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-2.17.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-core-js-2.17.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpclient-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpcore-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpmime-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jcommander-1.29.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-io-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-util-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-4.1.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-platform-4.1.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/junit-4.12.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/nekohtml-1.9.22.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/netty-3.5.7.Final.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/phantomjsdriver-1.2.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/sac-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/serializer-2.7.2.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/testng-6.8.5.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-api-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-client-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-common-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xalan-2.7.2.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xercesImpl-2.11.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xml-apis-1.4.01.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1-srcs.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/jxl-2.6.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51352 -d /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/test-output /var/folders/k6/507x0h4145jcr2dx9xx7wy_80000gn/T/testng-eclipse-1061779232/testng-customsuite.xml
+java -ea -classpath /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/bin:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/testng.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/jcommander.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/bsh-2.0b4.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/snakeyaml.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.12-20150511.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/apache-mime4j-0.6.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/bsh-1.3.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cglib-nodep-2.1_3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-codec-1.10.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-collections-3.2.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-exec-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-io-2.4.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-lang3-3.4.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-logging-1.1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cssparser-0.9.16.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/gson-2.3.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/guava-18.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-core-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-library-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-2.17.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-core-js-2.17.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpclient-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpcore-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpmime-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jcommander-1.29.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-io-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-util-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-4.1.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-platform-4.1.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/junit-4.12.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/nekohtml-1.9.22.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/netty-3.5.7.Final.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/phantomjsdriver-1.2.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/sac-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/serializer-2.7.2.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/testng-6.8.5.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-api-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-client-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-common-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xalan-2.7.2.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xercesImpl-2.11.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xml-apis-1.4.01.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1-srcs.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/jxl-2.6.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar org.testng.remote.RemoteTestNG -serport 51352 -d /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/test-output /var/folders/k6/507x0h4145jcr2dx9xx7wy_80000gn/T/testng-eclipse-1061779232/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:58:22.596
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:src [in SeleniumPoiforGetHub]
+  <default> (...)
+  com (...)
+  com.model (...)
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:58:22.596
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:<default> [in src [in SeleniumPoiforGetHub]]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:58:22.608
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com [in src [in SeleniumPoiforGetHub]]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:58:22.613
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.model [in src [in SeleniumPoiforGetHub]]
+  [Working copy] ExcelConfig.java
+    package com.model
+    import java.io.File
+    import java.io.FileInputStream
+    import org.apache.poi.xssf.usermodel.XSSFSheet
+    import org.apache.poi.xssf.usermodel.XSSFWorkbook
+    class ExcelConfig
+      XSSFWorkbook wb
+      XSSFSheet sheet1
+      ExcelConfig(String)
+      String getData(int, int, int)
+      int getRowCount(int)
+  [Working copy] LandingPage.java
+    package com.model
+    import java.util.concurrent.TimeUnit
+    import org.openqa.selenium.By
+    import org.openqa.selenium.WebDriver
+    import org.openqa.selenium.firefox.FirefoxDriver
+    import org.testng.annotations.DataProvider
+    import org.testng.annotations.Test
+    class LandingPage
+      void loginWordpress(String, String)
+      void logout()
+      Object[][] passData()
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 05:58:22.703
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/bin /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/testng.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/jcommander.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/bsh-2.0b4.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/snakeyaml.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.12-20150511.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/apache-mime4j-0.6.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/bsh-1.3.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cglib-nodep-2.1_3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-codec-1.10.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-collections-3.2.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-exec-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-io-2.4.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-lang3-3.4.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-logging-1.1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cssparser-0.9.16.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/gson-2.3.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/guava-18.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-core-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-library-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-2.17.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-core-js-2.17.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpclient-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpcore-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpmime-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jcommander-1.29.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-io-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-util-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-4.1.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-platform-4.1.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/junit-4.12.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/nekohtml-1.9.22.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/netty-3.5.7.Final.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/phantomjsdriver-1.2.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/sac-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/serializer-2.7.2.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/testng-6.8.5.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-api-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-client-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-common-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xalan-2.7.2.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xercesImpl-2.11.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xml-apis-1.4.01.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1-srcs.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/jxl-2.6.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51362 -d /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/test-output /var/folders/k6/507x0h4145jcr2dx9xx7wy_80000gn/T/testng-eclipse--1108158592/testng-customsuite.xml
+java -ea -classpath /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/bin:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/testng.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/jcommander.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/bsh-2.0b4.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/snakeyaml.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.12-20150511.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/apache-mime4j-0.6.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/bsh-1.3.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cglib-nodep-2.1_3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-codec-1.10.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-collections-3.2.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-exec-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-io-2.4.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-lang3-3.4.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-logging-1.1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cssparser-0.9.16.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/gson-2.3.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/guava-18.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-core-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-library-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-2.17.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-core-js-2.17.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpclient-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpcore-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpmime-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jcommander-1.29.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-io-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-util-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-4.1.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-platform-4.1.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/junit-4.12.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/nekohtml-1.9.22.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/netty-3.5.7.Final.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/phantomjsdriver-1.2.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/sac-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/serializer-2.7.2.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/testng-6.8.5.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-api-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-client-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-common-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xalan-2.7.2.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xercesImpl-2.11.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xml-apis-1.4.01.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1-srcs.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/jxl-2.6.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar org.testng.remote.RemoteTestNG -serport 51362 -d /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/test-output /var/folders/k6/507x0h4145jcr2dx9xx7wy_80000gn/T/testng-eclipse--1108158592/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 06:02:14.227
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/bin /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/testng.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/jcommander.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/bsh-2.0b4.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/snakeyaml.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.12-20150511.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/apache-mime4j-0.6.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/bsh-1.3.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cglib-nodep-2.1_3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-codec-1.10.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-collections-3.2.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-exec-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-io-2.4.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-lang3-3.4.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-logging-1.1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cssparser-0.9.16.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/gson-2.3.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/guava-18.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-core-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-library-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-2.17.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-core-js-2.17.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpclient-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpcore-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpmime-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jcommander-1.29.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-io-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-util-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-4.1.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-platform-4.1.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/junit-4.12.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/nekohtml-1.9.22.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/netty-3.5.7.Final.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/phantomjsdriver-1.2.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/sac-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/serializer-2.7.2.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/testng-6.8.5.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-api-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-client-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-common-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xalan-2.7.2.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xercesImpl-2.11.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xml-apis-1.4.01.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1-srcs.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/jxl-2.6.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51409 -d /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/test-output /var/folders/k6/507x0h4145jcr2dx9xx7wy_80000gn/T/testng-eclipse--708067352/testng-customsuite.xml
+java -ea -classpath /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/bin:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/testng.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/jcommander.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/bsh-2.0b4.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/snakeyaml.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.12-20150511.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/apache-mime4j-0.6.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/bsh-1.3.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cglib-nodep-2.1_3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-codec-1.10.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-collections-3.2.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-exec-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-io-2.4.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-lang3-3.4.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-logging-1.1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cssparser-0.9.16.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/gson-2.3.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/guava-18.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-core-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-library-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-2.17.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-core-js-2.17.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpclient-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpcore-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpmime-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jcommander-1.29.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-io-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-util-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-4.1.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-platform-4.1.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/junit-4.12.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/nekohtml-1.9.22.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/netty-3.5.7.Final.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/phantomjsdriver-1.2.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/sac-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/serializer-2.7.2.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/testng-6.8.5.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-api-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-client-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-common-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xalan-2.7.2.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xercesImpl-2.11.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xml-apis-1.4.01.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1-srcs.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/jxl-2.6.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar org.testng.remote.RemoteTestNG -serport 51409 -d /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/test-output /var/folders/k6/507x0h4145jcr2dx9xx7wy_80000gn/T/testng-eclipse--708067352/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 06:02:43.002
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:src [in SeleniumPoiforGetHub]
+  <default> (...)
+  com (...)
+  com.model (...)
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 06:02:43.002
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:<default> [in src [in SeleniumPoiforGetHub]]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 06:02:43.003
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com [in src [in SeleniumPoiforGetHub]]
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 06:02:43.007
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.model [in src [in SeleniumPoiforGetHub]]
+  [Working copy] ExcelConfig.java
+    package com.model
+    import java.io.File
+    import java.io.FileInputStream
+    import org.apache.poi.xssf.usermodel.XSSFSheet
+    import org.apache.poi.xssf.usermodel.XSSFWorkbook
+    class ExcelConfig
+      XSSFWorkbook wb
+      XSSFSheet sheet1
+      ExcelConfig(String)
+      String getData(int, int, int)
+      int getRowCount(int)
+  [Working copy] LandingPage.java
+    package com.model
+    import java.util.concurrent.TimeUnit
+    import org.openqa.selenium.By
+    import org.openqa.selenium.WebDriver
+    import org.openqa.selenium.firefox.FirefoxDriver
+    import org.testng.annotations.DataProvider
+    import org.testng.annotations.Test
+    class LandingPage
+      void loginWordpress(String, String)
+      void logout()
+      Object[][] passData()
+
+!ENTRY org.testng.eclipse 1 0 2015-11-18 06:02:43.042
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/bin /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/testng.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/jcommander.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/bsh-2.0b4.jar /Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/snakeyaml.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.12-20150511.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/apache-mime4j-0.6.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/bsh-1.3.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cglib-nodep-2.1_3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-codec-1.10.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-collections-3.2.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-exec-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-io-2.4.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-lang3-3.4.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-logging-1.1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cssparser-0.9.16.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/gson-2.3.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/guava-18.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-core-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-library-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-2.17.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-core-js-2.17.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpclient-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpcore-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpmime-4.4.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jcommander-1.29.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-io-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-util-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-4.1.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-platform-4.1.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/junit-4.12.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/nekohtml-1.9.22.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/netty-3.5.7.Final.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/phantomjsdriver-1.2.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/sac-1.3.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/serializer-2.7.2.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/testng-6.8.5.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-api-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-client-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-common-9.2.11.v20150529.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xalan-2.7.2.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xercesImpl-2.11.0.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xml-apis-1.4.01.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1-srcs.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/jxl-2.6.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar /Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51415 -d /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/test-output /var/folders/k6/507x0h4145jcr2dx9xx7wy_80000gn/T/testng-eclipse-32604929/testng-customsuite.xml
+java -ea -classpath /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/bin:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/testng.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/jcommander.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/bsh-2.0b4.jar:/Applications/eclipse 2/plugins/org.testng.eclipse_6.9.5.201508210528/lib/snakeyaml.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.12-20150511.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/apache-mime4j-0.6.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/bsh-1.3.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cglib-nodep-2.1_3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-codec-1.10.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-collections-3.2.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-exec-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-io-2.4.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-lang3-3.4.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/commons-logging-1.1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/cssparser-0.9.16.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/gson-2.3.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/guava-18.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-core-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/hamcrest-library-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-2.17.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/htmlunit-core-js-2.17.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpclient-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpcore-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/httpmime-4.4.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jcommander-1.29.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-io-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jetty-util-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-4.1.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/jna-platform-4.1.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/junit-4.12.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/nekohtml-1.9.22.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/netty-3.5.7.Final.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/phantomjsdriver-1.2.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/sac-1.3.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/serializer-2.7.2.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/testng-6.8.5.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-api-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-client-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/websocket-common-9.2.11.v20150529.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xalan-2.7.2.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xercesImpl-2.11.0.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/libs/xml-apis-1.4.01.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1-srcs.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/selenium-2.47.1/selenium-java-2.47.1.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/jxl-2.6.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-examples-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-excelant-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar:/Users/capiwega/Documents/MY PAGES/ethiopianmusika/Testing/Development/jars/poi-3.13/poi-scratchpad-3.13-20150929.jar org.testng.remote.RemoteTestNG -serport 51415 -d /Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/test-output /var/folders/k6/507x0h4145jcr2dx9xx7wy_80000gn/T/testng-eclipse-32604929/testng-customsuite.xml

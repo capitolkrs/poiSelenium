@@ -44,7 +44,7 @@ public class LandingPage {
 			data[i][1]=config.getData(0, i, 2);//password
 			
 		}
-		System.out.println(data[0][1]);
+	
 		return data;
 	}
 }
