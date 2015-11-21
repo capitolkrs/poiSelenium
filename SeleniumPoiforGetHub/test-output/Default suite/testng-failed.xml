@@ -5,9 +5,15 @@
     <classes>
       <class name="com.model.LandingPage">
         <methods>
-          <include name="loginWordpress"/>
+          <include name="loginWordpress" invocation-numbers="0 1 2 3"/>
+          <include name="logout"/>
         </methods>
       </class> <!-- com.model.LandingPage -->
+      <class name="com.model.modifyProfile">
+        <methods>
+          <include name="changeProfile" invocation-numbers="1 2 3"/>
+        </methods>
+      </class> <!-- com.model.modifyProfile -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

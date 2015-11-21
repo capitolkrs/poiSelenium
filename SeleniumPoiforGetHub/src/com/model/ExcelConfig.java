@@ -2,8 +2,10 @@ package com.model;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 
-
+import org.apache.poi.xssf.usermodel.XSSFName;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
@@ -23,15 +25,16 @@ public class ExcelConfig {
 			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
-		System.out.println(e.getMessage());
+		System.out.println("error on your code capi");
 		}
 		
 	}
 	
+	
 	public String getData(int sheetNumber,int row, int col){
 		sheet1=wb.getSheetAt(sheetNumber);
-		String data=sheet1.getRow(row).getCell(col).getStringCellValue();
-		return data;
+		String myData=sheet1.getRow(row).getCell(col).getStringCellValue();
+		return myData;
 	}
 
 	public int getRowCount(int SheetIndex){
@@ -39,4 +42,9 @@ public class ExcelConfig {
 		row=row+1;
 		return row;
 	}
-}
+	
+	
+		
+	
+	}
+

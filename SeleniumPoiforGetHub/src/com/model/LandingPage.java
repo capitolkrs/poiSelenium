@@ -2,18 +2,22 @@ package com.model;
 
 import java.util.concurrent.TimeUnit;
 
+import junit.framework.Assert;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class LandingPage {
-	
-	
+
+	WebDriver driver=new FirefoxDriver();
 	@Test(dataProvider="loginData")
 	public void loginWordpress(String usrName,String passwd){
-		WebDriver driver=new FirefoxDriver();
+		
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
 		driver.get("https://wordpress.com/");
@@ -23,11 +27,14 @@ public class LandingPage {
 		driver.findElement(By.id("user_pass" )).clear();
 		driver.findElement(By.id("user_pass" )).sendKeys(passwd);
 		driver.findElement(By.id("wp-submit" )).click();
-		
+		driver.close();
+		Assert.assertEquals("TRUE", "TRUE");
 	}
-	@Test
+	@AfterTest
 	public void logout(){
+		driver.close();
 		
+	
 	}
 	
 	
@@ -37,14 +44,27 @@ public class LandingPage {
 	public Object [][] passData(){
 		
 		ExcelConfig config=new ExcelConfig("/Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/testData/inputData.xlsx");
-		int row=config.getRowCount(0);
-		Object [][] data=new Object[row][3];
-		for(int i=0;i<row;i++){
-			data[i][0]=config.getData(0, i, 1);//userName
-			data[i][1]=config.getData(0, i, 2);//password
-			
+		int srow=config.getRowCount(0);
+		System.out.println(srow);
+		Object [][] data=new Object[srow][2];
+		for(int i=0;i<srow;i++){
+		data[i][0]=config.getData(0, i, 0);
+		data[i][1]=config.getData(0, i, 1);
 		}
-	
 		return data;
+	}
+	
+	@DataProvider (name="manualLogin")
+	public Object [][] getData(){
+		
+		Object [][] dataInput=new Object[2][2];
+		dataInput[0][0]="userName";
+		dataInput[0][1]="password";
+		
+		dataInput[1][0]="userName1";
+		dataInput[1][1]="password";
+				
+		return dataInput;		
+		
 	}
 }
