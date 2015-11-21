@@ -4,3 +4,7 @@
 1447843436702	Rename resource 'TestData'
 1447843488229	Rename resource 'testData'
 1447843578228	Rename resource 'testDataSet'
+1447934814071	Rename local variable 'row'
+1447934834321	Rename local variable 'Srow'
+1448105152526	Rename local variable 'data'
+1448108094626	Rename local variable 'Mysheet'

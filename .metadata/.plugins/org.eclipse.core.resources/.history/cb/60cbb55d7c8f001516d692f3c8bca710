@@ -1,0 +1,65 @@
+package com.model;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class ExcelConfig {
+	/*XSSFWorkbook wb;
+	XSSFSheet sheet1;
+	
+	public ExcelConfig(String xlpath){ //constructor
+		
+		
+		try {
+			File src=new File(xlpath);
+			FileInputStream fis=new FileInputStream(src);
+			wb=new XSSFWorkbook(fis);
+			
+			
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+		System.out.println("error on your code capi");
+		}
+		
+	}
+	
+	
+	public String getData(int sheetNumber,int row, int col){
+		sheet1=wb.getSheetAt(sheetNumber);
+		String data=sheet1.getRow(row).getCell(col).getStringCellValue();
+		return data;
+	}
+
+	public int getRowCount(int SheetIndex){
+		int row =wb.getSheetAt(SheetIndex).getLastRowNum();
+		row=row+1;
+		return row;
+	}
+	*/
+	public static void main(String [] args){
+		File src=new File("/Users/capiwega/gitHubRepo/PoiSelenium/SeleniumPoiforGetHub/testData/inputData.xlsx");
+		FileInputStream fis = null;
+		try {
+			fis = new FileInputStream(src);
+		} catch (FileNotFoundException e) {
+			System.out.println("File not found capi");
+		}
+		XSSFWorkbook wb = null;
+		try {
+			new XSSFWorkbook(fis);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		XSSFSheet sh1=wb.getSheetAt(0);
+		String cellValue=sh1.getRow(0).getCell(0).getStringCellValue();
+		
+		System.out.println(cellValue);
+	}
+}
