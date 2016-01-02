@@ -1,0 +1,30 @@
+package pageObject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class SearchSuite {
+	
+
+
+	public static void main(String[] args) {
+		//creating object of page	
+		 WebDriver driver=new FirefoxDriver();
+		
+		driver.get("http://www.wordpress.com");
+		HomePage page1=new HomePage(driver);
+		HomePage page2=page1.enterCredentials(driver);
+		//page.enterCredentials();
+		
+		
+		//SearchResult googlePage=page.loginClick();
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

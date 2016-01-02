@@ -1,0 +1,28 @@
+package pageObject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class HomePage {
+		//Inittialize objects in t this page
+	
+	public HomePage(WebDriver driver) {
+		PageFactory.initElements(driver, this);
+	}
+
+	@FindBy (xpath="//*[@id='gs_htif0']")
+	public WebElement searchBox;
+	
+	@FindBy (id="gbqfbb")
+	public WebElement btnsearch;
+	
+	
+	public void searchKeyword(String keywordInput){
+		
+		searchBox.sendKeys(keywordInput);
+		btnsearch.click();
+		
+	}
+}

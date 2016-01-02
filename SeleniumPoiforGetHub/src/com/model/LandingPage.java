@@ -7,6 +7,8 @@ import junit.framework.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.DataProvider;
@@ -26,6 +28,11 @@ public class LandingPage {
 		driver.findElement(By.id("user_login" )).sendKeys(usrName);
 		driver.findElement(By.id("user_pass" )).clear();
 		driver.findElement(By.id("user_pass" )).sendKeys(passwd);
+		WebDriverWait wait=new WebDriverWait(driver, 60);
+		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("lkj")));
+		
+		
+		
 		driver.findElement(By.id("wp-submit" )).click();
 		driver.close();
 		Assert.assertEquals("TRUE", "TRUE");

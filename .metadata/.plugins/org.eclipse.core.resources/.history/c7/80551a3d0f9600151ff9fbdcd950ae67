@@ -1,0 +1,34 @@
+package pageObject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class HomePage {
+		//Inittialize objects in t this page
+	
+	public HomePage(WebDriver driver) {
+		PageFactory.initElements(driver, this);
+	}
+
+	@FindBy (linkText="Log In")
+	public WebElement loginLink;
+	
+	@FindBy (id="user_login")
+	public WebElement userID;
+	
+	@FindBy (id="user_pass")
+	public WebElement userPass;
+	
+	@FindBy (id="wp-submit")
+	public WebElement submitbtn;
+	
+	public void searchKeyword(String keywordInput){
+		
+		loginLink.click();
+		userID.sendKeys("seleniumpoi");
+		userPass.sendKeys("taduS098");
+		submitbtn.click();
+	}
+}

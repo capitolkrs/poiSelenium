@@ -1,0 +1,28 @@
+package pageObject;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class LoginPage extends AbstractPage {
+	
+	public LoginPage(WebDriver driver) {
+		super(driver);
+	}
+	
+	
+public LoginPage fillUserDetails(){
+	driver.findElement(By.id("user_login")).sendKeys("seleniumpoi");
+	driver.findElement(By.id("user_pass")).sendKeys("taduS098");
+	return new LoginPage(driver);
+}
+public AccountPage submitLogin(){
+	//driver.findElement(By.id("wp-submit")).click();
+	return new AccountPage(driver);
+	
+}
+	
+}
+

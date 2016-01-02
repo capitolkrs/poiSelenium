@@ -1,0 +1,29 @@
+package pageObject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class SearchResult {
+	
+	SearchResult(){
+		
+	}
+	SearchResult(WebDriver driver){
+		PageFactory.initElements(driver, this);
+		
+	}
+		@FindBy (xpath="//*[@id='header']/div[1]/nav/ul[2]/li[2]/a/img")
+		public static WebElement profileLink;
+		
+		
+		
+	public static SeleniumLangingPage navigateSeleniumPage(){
+		 profileLink.click();
+		return new SeleniumLangingPage();
+	
+	}
+	
+
+}

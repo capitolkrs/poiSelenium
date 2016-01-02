@@ -1,0 +1,31 @@
+package pageObject;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class SearchSuite {
+	WebDriver driver;
+	
+@Before
+public void testSetUp(){
+	driver=new FirefoxDriver();
+}
+@After
+public void testShutDown(){
+	driver.close();
+	
+}
+@Test
+public void googleSearchTest(){
+	HomePage onHomePage=new HomePage(driver);
+
+	onHomePage=onHomePage.navigateToWebApp();
+	LoginPage onLoginPage=onHomePage.clickSignIn();
+	onLoginPage.fillUserDetails();
+	onlogi
+	
+}
+} 

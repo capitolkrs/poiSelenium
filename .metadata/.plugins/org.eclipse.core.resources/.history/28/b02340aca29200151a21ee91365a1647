@@ -1,0 +1,8 @@
+
+public class MyFirstTest {
+@test
+public void tester(){
+	System.out.println("test import");
+	
+}
+}

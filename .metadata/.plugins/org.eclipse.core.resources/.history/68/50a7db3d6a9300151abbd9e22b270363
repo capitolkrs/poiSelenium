@@ -1,0 +1,19 @@
+package pageObject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class GoogleSearch {
+	
+	public static WebDriver driver=new FirefoxDriver();
+
+	public static void main(String[] args) {
+		//creating object of page
+		driver.navigate().to("http//www.google.com");
+		GoodleHomePageObjects page=new GoodleHomePageObjects(driver,"hello");
+		page.txtSearch.sendKeys("selenium");
+		page.btnsearch.click();
+		
+	}
+
+}

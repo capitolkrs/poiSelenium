@@ -1,0 +1,16 @@
+package seleniumPOM;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+
+public class ConfigTest {
+	@Test
+	public void display(){
+		System.out.println("launching maven");
+		WebDriver driver=new FirefoxDriver();
+		driver.get("http://google.com");
+		
+	}
+
+}

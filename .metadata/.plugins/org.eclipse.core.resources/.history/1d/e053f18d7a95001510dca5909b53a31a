@@ -1,0 +1,35 @@
+package pageObject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class GoogleHomePageObject {
+		//Inittialize objects in t this page
+	
+	public GoogleHomePageObject(WebDriver driver) {
+		PageFactory.initElements(driver, this);
+	}
+
+	@FindBy (id="Email")
+	public WebElement txtSearch;
+	@FindBy (id="Passwd")
+	public WebElement password;
+	@FindBy (id="next")
+	public WebElement btnsearch;
+	@FindBy (id="signIn")
+	public WebElement signIN;
+	
+	
+	public void gmailLogin(String emailId,String passWd){
+		
+		txtSearch.sendKeys(emailId);
+		btnsearch.click();
+		password.sendKeys(passWd);
+		signIN.click();
+		
+	}
+
+
+}

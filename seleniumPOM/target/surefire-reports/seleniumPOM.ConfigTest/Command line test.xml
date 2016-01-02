@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="thecanbutler.local" name="seleniumPOM.ConfigTest" tests="2" failures="0" timestamp="26 Nov 2015 23:18:06 GMT" time="5.776" errors="0">
+  <testcase name="display" time="5.758" classname="seleniumPOM.ConfigTest"/>
+  <testcase name="testTitle" time="0.002" classname="seleniumPOM.ConfigTest"/>
+</testsuite>

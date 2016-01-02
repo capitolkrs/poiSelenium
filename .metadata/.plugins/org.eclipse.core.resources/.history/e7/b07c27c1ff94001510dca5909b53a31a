@@ -1,0 +1,25 @@
+package pageObject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class GoogleSearch {
+	
+
+
+	public static void main(String[] args) {
+		//creating object of page	
+		 WebDriver driver=new FirefoxDriver();
+		
+		driver.get("http://www.gmail.com");
+		GoogleHomePageObject page=new GoogleHomePageObject(driver);
+		GmailLoginPage loginPage=new GmailLoginPage(driver);
+		//search selenium 
+		page.gmailLogin("capitolkrs" );
+		loginPage.enterPassword("cherenetS#098");
+		loginPage.loginClicke();
+		
+		
+	}
+
+}

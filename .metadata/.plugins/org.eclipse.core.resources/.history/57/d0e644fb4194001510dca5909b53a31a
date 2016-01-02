@@ -1,0 +1,11 @@
+package seleniumPOM;
+
+import org.testng.annotations.Test;
+
+public class ConfigTest {
+	@Test
+	public void display(){
+		System.out.println("launching maven");
+	}
+
+}
